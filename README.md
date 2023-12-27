@@ -1,6 +1,5 @@
 <h1 align="center">Bunny Clicker</h1>
 <p align="center">
-  <br>
   <sub>Click with Ease, Automate with Bunny!</sub>
 </p>
 
