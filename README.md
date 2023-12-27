@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 24pt;">Bunny Clicker</strong>
+  <h1 style="font-size: 24pt;">Bunny Clicker</h1>
   <br>
   <sub>Click with Ease, Automate with Bunny!</sub>
 </p>
