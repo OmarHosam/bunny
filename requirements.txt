@@ -1,0 +1,7 @@
+PyOpenGL
+PyOpenGL_accelerate
+pyautogui
+glfw
+imgui
+keyboard
+pywin32
