@@ -1,7 +1,8 @@
-<h1 align="center">Bunny Clicker</h1>
-<p align="center">
-  Click with Ease, Automate with Bunny!
-</p>
+<h1 align="center">
+  <strong>Bunny Clicker</strong>
+  <br>
+  <sub>Click with Ease, Automate with Bunny!</sub>
+</h1>
 
 ## How to Download
 
