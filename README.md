@@ -1,8 +1,8 @@
-<div align="center">
-  <strong style="font-size: 36px;">Bunny Clicker</strong>
+<h1 align="center">Bunny Clicker</h1>
+<p align="center">
   <br>
-  <p>Click with Ease, Automate with Bunny!</p>
-</div>
+  <sub>Click with Ease, Automate with Bunny!</sub>
+</p>
 
 ## How to Download
 
